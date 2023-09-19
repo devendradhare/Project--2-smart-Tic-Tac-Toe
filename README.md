@@ -3,6 +3,13 @@
 
 This is a simple text-based implementation of the classic game Tic Tac Toe, written in C. The game is played in the console and offers various play modes, including player vs. player, player vs. computer, and player vs. evil computer. The game also features sound effects for various events.
 
+## Screenshots
+
+<img src="https://github.com/devendradhare/Project--2-smart-Tic-Tac-Toe/assets/87082017/a60427fa-4ab2-4025-b64a-8f96f32c7518"  height="200">
+<img src="https://github.com/devendradhare/Project--2-smart-Tic-Tac-Toe/assets/87082017/c19f895d-cd28-4cdc-98d6-7afabc7d312a"  height="200">
+<img src="https://github.com/devendradhare/Project--2-smart-Tic-Tac-Toe/assets/87082017/a50f825b-f902-4d39-94b3-d4d90bb19592"  height="200">
+
+
 ## Features
 
 - Play Tic Tac Toe on the console.
